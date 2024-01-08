@@ -13,10 +13,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Bot Messenger",
-    "PREFIX": "?",
+    "BOTNAME": "JazLey",
+    "PREFIX": "-",
     "ADMINBOT": [
-        "100004253741257"
+        "61550264923277"
     ],
     "APPSTATEPATH": "appstate.json",
     "SETUP_WIN": {
